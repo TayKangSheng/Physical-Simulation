@@ -4,8 +4,8 @@ kthxbye
 
 # README
 
-INPUT: (Tested and known parameters)
-	‘File_Name’ ‘timestepper_type’ ‘tilmestep’ ‘system_type’
+INPUT: (Tested and known parameters)  
+	*‘File_Name’ ‘timestepper_type’ ‘tilmestep’ ‘system_type’*
 
 	Cloth Mode: 	“./a3 r 0.05 clo”
 	Pendulum Mode: “./a3 r 0.05 pen”
@@ -16,13 +16,13 @@ INPUT: (Tested and known parameters)
 	RK4:		“./a3 r 0.01 pen”
 
 
-key press:
-	’s’ : SWING.
-	‘w’ : Toggle wireframe. Smooth shading only when length = 4 and in cloth mode!
-	‘r’ : Reset
-	’t’ : Toggle between SimpleSystem, PendulumSystem and ClothSystem.
-	‘x’ : Extend number of Particles. Only work for PendulumSystem and ClothSystem! Loop from 1 particle to 8 particles.
-	‘q’ : WIND!
+**key press**:  
+- ’s’ : SWING.
+- ‘w’ : Toggle wireframe. Smooth shading only when length = 4 and in cloth mode!
+- ‘r’ : Reset
+- ’t’ : Toggle between SimpleSystem, PendulumSystem and ClothSystem.
+- ‘x’ : Extend number of Particles. Only work for PendulumSystem and ClothSystem! Loop from 1 particle to 8 particles.
+- ‘q’ : WIND!
 
 Never collaborate wth anyone. No help received, tried helping ng ping and nikhil a little.
 
